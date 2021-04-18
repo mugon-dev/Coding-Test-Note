@@ -24,3 +24,4 @@ if(remainder != 0):
 
 # 결과
 print(result)
+
